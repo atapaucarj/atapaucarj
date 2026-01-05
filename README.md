@@ -15,6 +15,9 @@ This profile serves as a portfolio of my technical work, including documented co
 - [Active Directory Home Lab](https://github.com/atapaucarj/active-directory-homelab) - Domain configuration, Group Policy enforcement, and access control fundamentals  
   *Built to reinforce real-world Active Directory concepts such as Group Policy enforcement and access control.*
 
+- [Linux Security Fundamentals Lab](https://github.com/atapaucarj/linux-security-fundamentals) – User privilege management, SSH configuration, and system hardening  
+  *Focused on enforcing least privilege, securing remote access, and validating Linux service behavior.*
+
 
 <h2>📌 Focus Areas & In-Progress Labs</h2>
 
