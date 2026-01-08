@@ -21,7 +21,6 @@ This profile serves as a portfolio of my technical work, including documented co
 
 <h2>📌 Focus Areas & In-Progress Labs</h2>
 
-- Linux fundamentals and system administration (home lab)
 - Security fundamentals, identity & access management
 - Networking concepts and troubleshooting (DNS, DHCP, TCP/IP)
 - Cybersecurity concepts aligned with Security+ and real-world environments
