@@ -18,6 +18,9 @@ This profile serves as a portfolio of my technical work, including documented co
 - [Linux Security Fundamentals Lab](https://github.com/atapaucarj/linux-security-fundamentals) – User privilege management, SSH configuration, and system hardening  
   *Focused on enforcing least privilege, securing remote access, and validating Linux service behavior.*
 
+- [Active Directory User Lifecycle & File Access Lab](https://github.com/atapaucarj/active-directory-user-lifecycle-lab) – OU design, user onboarding, NTFS permissions, and GPO-based drive mapping  
+  *Focused on role-based access control, centralized file shares, and real-world Active Directory administration workflows.*
+
 
 <h2>📌 Focus Areas & In-Progress Labs</h2>
 
